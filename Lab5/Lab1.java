@@ -44,5 +44,3 @@ public class Lab1 {
         sc.close();
     }
 }
-    
-
